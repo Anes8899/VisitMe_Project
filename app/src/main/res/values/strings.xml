@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Visit Me</string>
+    <string name="home">Home</string>
+    <string name="place">Place</string>
+    <string name="profile">Profile</string>
+
+    <string name="visitMe">Visit Me</string>
+    <string name="title">Welcome to Visit Me</string>
+    <string name="paragraph">Let\'s visit top places in Cambodia with me !</string>
+    <string name="explore">Explore Me</string>
+    <string name="km">Km</string>
+    <string name="explore_top_places">Explore Top Places</string>
+    <string name="bio">Bio</string>
+    <string name="favorite_place">Favorite Place</string>
+
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="edit_profile">Edit Profile</string>
+</resources>
